@@ -32,18 +32,18 @@ LED akan menyala jika:
 ---
 
 ## 📷 Preview
-![Wiring](image/wiring.png)
-![Dashboard](image/dashboard.png)
+![Wiring](image/wiring.png
 
 
 ---
 
 ## 📊 Dashboard
 Data dikirim ke ThingSpeak dan divisualisasikan dalam bentuk grafik real-time.
+![Dashboard](image/dashboard.png)
 
 ---
 
-## 🖥️ Teknologi
+## Teknologi
 - ESP32
 - Arduino
 - ThingSpeak API
@@ -51,7 +51,7 @@ Data dikirim ke ThingSpeak dan divisualisasikan dalam bentuk grafik real-time.
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 1. Buka di Wokwi
 2. Jalankan simulasi
 3. Lihat Serial Monitor
@@ -59,5 +59,5 @@ Data dikirim ke ThingSpeak dan divisualisasikan dalam bentuk grafik real-time.
 
 ---
 
-## 👨‍💻 Author
+## Author
 Bran Simbolon
