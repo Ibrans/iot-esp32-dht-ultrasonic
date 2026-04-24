@@ -33,6 +33,8 @@ LED akan menyala jika:
 
 ## 📷 Preview
 ![Wiring](image/wiring.png)
+![Dashboard](image/dashboard.png)
+
 
 ---
 
