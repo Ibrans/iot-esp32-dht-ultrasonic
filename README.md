@@ -32,7 +32,7 @@ LED akan menyala jika:
 ---
 
 ## 📷 Preview
-![Wiring](image/wiring.png
+![Wiring](image/wiring.png)
 
 
 ---
